@@ -47,7 +47,7 @@ body {
   }
   
   .operator {
-    background-color: red;
+    background-color: gray;
   }
   
   .operator:active {
@@ -56,7 +56,7 @@ body {
   
   .clear{
     grid-column: span 4;
-    background-color: red;
+    background-color: gray;
     color white;
     width:100%;
   }
